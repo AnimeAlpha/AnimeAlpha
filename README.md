@@ -8,9 +8,12 @@ Talking about personal stuffs!
 - 💞️ I’m looking to collaborate on bulding a Anime Database for Myanmar People.
 - 📫 How to reach me > DM me in discord. Hiroshi#5305
 
+
 📊 This Week I spend my time on.
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 
 📈 My Github Stats:
 
