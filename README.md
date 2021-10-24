@@ -9,7 +9,7 @@ Talking about personal stuffs!
 - 📫 How to reach me > DM me in discord. Hiroshi#5305
 
 
-📊 This Week I spend my time on.
+📊 This Week I spend my time on. ![wakatime](https://wakatime.com/badge/user/47fa5905-5b5a-4ae7-9f80-05725739cf10.svg)
 
 <!--START_SECTION:waka-->
 ```text
