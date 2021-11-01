@@ -13,11 +13,7 @@ Talking about personal stuffs!
 
 <!--START_SECTION:waka-->
 ```text
-JSON         15 mins         ██████████░░░░░░░░░░░░░░░   40.01 % 
-Batchfile    8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.05 % 
-Markdown     7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.77 % 
-JavaScript   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Other        2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Git Config   3 mins          ██████████████████████▓░░   91.03 % 
 ```
 <!--END_SECTION:waka-->
 
