@@ -13,7 +13,11 @@ Talking about personal stuffs!
 
 <!--START_SECTION:waka-->
 ```text
-Git Config   3 mins          ██████████████████████▓░░   91.03 % 
+JavaScript   2 hrs 15 mins   ██████████████▒░░░░░░░░░░   57.90 % 
+JSON         35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Other        30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Git Config   23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+HTML         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 <!--END_SECTION:waka-->
 
