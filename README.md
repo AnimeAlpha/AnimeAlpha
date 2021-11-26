@@ -13,7 +13,9 @@ Talking about personal stuffs!
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   1 hr 55 mins    ████████████████████▒░░░░   81.55 % 
+JSON         14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+XML          11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 ```
 <!--END_SECTION:waka-->
 
