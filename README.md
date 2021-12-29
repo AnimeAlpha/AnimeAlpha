@@ -13,8 +13,8 @@ Talking about personal stuffs!
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   36 mins         ██████████████░░░░░░░░░░░   56.53 % 
-JSON         27 mins         ██████████▓░░░░░░░░░░░░░░   42.51 % 
+TypeScript   36 mins         ██████████████░░░░░░░░░░░   56.55 % 
+JSON         27 mins         ██████████▓░░░░░░░░░░░░░░   42.49 % 
 ```
 <!--END_SECTION:waka-->
 
