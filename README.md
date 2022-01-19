@@ -13,10 +13,7 @@ Talking about personal stuffs!
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   15 mins         ███████████░░░░░░░░░░░░░░   43.76 % 
-Bash         12 mins         ████████▓░░░░░░░░░░░░░░░░   34.19 % 
-Git Config   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-JSON         3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
