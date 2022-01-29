@@ -13,11 +13,11 @@ Talking about personal stuffs!
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   3 hrs 30 mins   ██████████▓░░░░░░░░░░░░░░   42.70 % 
-JavaScript   2 hrs 42 mins   ████████▒░░░░░░░░░░░░░░░░   33.03 % 
-JSON         1 hr 4 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Docker       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Bash         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+TypeScript   13 hrs 37 mins  ██████████████████░░░░░░░   72.42 % 
+JavaScript   2 hrs 57 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+JSON         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Docker       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Bash         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 <!--END_SECTION:waka-->
 
