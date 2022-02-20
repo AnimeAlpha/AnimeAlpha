@@ -13,8 +13,6 @@ Talking about personal stuffs!
 
 <!--START_SECTION:waka-->
 ```text
-Total: 15 hrs 28 mins
-
 TypeScript   11 hrs 5 mins   █████████████████▓░░░░░░░   71.30 % 
 JSON         3 hrs 21 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.55 % 
 JavaScript   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
