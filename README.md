@@ -14,10 +14,10 @@ Talking about personal stuffs!
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   12 hrs 18 mins  █████████████████████░░░░   83.43 %
-JSON         1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-JavaScript   54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+TypeScript   9 hrs 48 mins   ████████████████████▓░░░░   82.48 %
+JSON         1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+JavaScript   54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
