@@ -14,7 +14,10 @@ Talking about personal stuffs!
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   1 hr            █████████████▓░░░░░░░░░░░   54.40 %
+JSON         26 mins         ██████░░░░░░░░░░░░░░░░░░░   23.40 %
+CSS          22 mins         █████░░░░░░░░░░░░░░░░░░░░   19.90 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
