@@ -14,8 +14,7 @@ Talking about personal stuffs!
 <!--START_SECTION:waka-->
 
 ```text
-Java   11 mins         ███████████████████▓░░░░░   78.09 %
-XML    3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
