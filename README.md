@@ -14,8 +14,7 @@ Talking about personal stuffs!
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 18 mins    █████████████████████▒░░░   85.50 %
-JavaScript   13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
